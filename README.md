@@ -1,5 +1,4 @@
 # E-voting-system
-# Voting_app
 This application is made using Node.js and truffle framework on Ethereum Blockchain
 
 ## Dependencies
